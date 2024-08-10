@@ -1,5 +1,3 @@
-// switch to Gemini instead of OpenAI
-
 import { NextResponse } from "next/server";
 import OpenAI from 'openai';
 

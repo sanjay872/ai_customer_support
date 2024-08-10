@@ -55,7 +55,7 @@ export default function Home() {
           ]
         })
 
-        return reader.read().then(processText);
+        return reader.read().then(processTest);
       })
     })
   }
